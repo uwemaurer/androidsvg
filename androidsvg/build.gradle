@@ -25,7 +25,7 @@ android {
     }
 }
 
-apply from: 'publish.gradle'
+//apply from: 'publish.gradle'
 
 dependencies {
     androidTestImplementation 'junit:junit:4.12'
